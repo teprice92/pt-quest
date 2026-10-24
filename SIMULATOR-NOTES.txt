@@ -1,0 +1,5 @@
+PT Quest exam simulator
+Total questions: 550 (includes 21 new authored clinical scenarios with four individual choice rationales).
+225-question mode: five 45-question sections, elapsed-time clock (not a strict time limit).
+This is NOT an official or psychometrically validated NPTE simulation. Existing adapted flashcard questions have not been independently clinically reviewed.
+Offline use: serve on HTTPS or localhost and load once to cache.

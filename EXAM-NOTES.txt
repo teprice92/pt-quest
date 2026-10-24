@@ -1,0 +1,1 @@
+529 original practice MCQs: 499 recall-style conversions from existing flashcards plus 30 hand-authored clinical scenarios. Not official FSBPT questions, not independently clinically reviewed, not calibrated to predict exam passing. Offline caching requires HTTPS or localhost and an initial online visit. Local browser storage contains test results.
